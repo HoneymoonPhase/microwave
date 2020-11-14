@@ -5,3 +5,9 @@
   border: 6px double black;
   margin: 0 auto;
 }
+
+.wrapper {
+  width: 50vw;
+  margin: 0 auto;
+  text-align: center;
+}
