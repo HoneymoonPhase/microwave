@@ -9,7 +9,7 @@ const BandRoute = () => {
       Band: 
       <Route path='/band/honeymoonphase' render={(props) => <Band {...props} name={`Honeymoon Phase`} title={'Mr Ickiman'} />} />
     </div>
-  );
-};
+  )
+}
 
 export default BandRoute;

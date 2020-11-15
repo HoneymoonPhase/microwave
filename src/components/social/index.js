@@ -16,7 +16,7 @@ const Social = (props) => {
         <img src={instagram} alt='instagram' width='40' />
       </a>
     </div>
-  );
+  )
 }
 
 export default Social;

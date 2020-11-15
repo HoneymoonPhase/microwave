@@ -7,7 +7,7 @@ const Name = (props) => {
     <div>
       <h1>{name}</h1>
     </div>
-  );
-};
+  )
+}
 
 export default Name;

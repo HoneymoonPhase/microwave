@@ -14,7 +14,7 @@ const Wrapper = () => {
       <Button />
       <Social instagram_link={instagram} facebook_link={facebook} />
     </div>
-  );
-};
+  )
+}
 
 export default Wrapper;
