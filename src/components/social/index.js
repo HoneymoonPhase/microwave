@@ -3,11 +3,19 @@ import facebook from '../../assests/icons/facebook.png';
 import instagram from '../../assests/icons/instagram.png';
 import './style.css';
 
-const Social = () => (
-      <div className='wrapper-social'>
+const Social = (props) => {
+
+  const {instagram_link, facebook_link} = props;
+  return(
+    <div className='wrapper-social'>
+      <a href={facebook_link} target='_blank' rel='noreferrer'>
         <img src={facebook} alt='facebook' width='40' />
+      </a>
+      <a href={instagram_link} target='_blank' rel='noreferrer'>
         <img src={instagram} alt='instagram' width='40' />
-      </div>
+      </a>
+    </div>
   );
+}
 
 export default Social;
