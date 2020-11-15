@@ -2,6 +2,7 @@ import React from 'react';
 import Navbar from '../navbar';
 import Banner from '../banner';
 import Button from '../button';
+import Social from '../social';
 import './style.css';
 
 const Container = (props) => {
@@ -11,6 +12,7 @@ const Container = (props) => {
       <div className='wrapper'>
         <Banner />
         <Button />
+        <Social />
       </div>
     </div>
   )
