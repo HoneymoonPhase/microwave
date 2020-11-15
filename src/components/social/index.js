@@ -6,6 +6,7 @@ import './style.css';
 const Social = (props) => {
 
   const {instagram_link, facebook_link} = props;
+  
   return(
     <div className='wrapper-social'>
       <a href={facebook_link} target='_blank' rel='noreferrer'>
