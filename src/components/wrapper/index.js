@@ -4,7 +4,7 @@ import Button from '../button';
 import Social from '../social';
 import './style.css';
 
-const Wrapper = (props) => {
+const Wrapper = () => {
   return (
     <div className='wrapper'>
       <Banner />

@@ -1,13 +1,14 @@
 import React from 'react';
 import Navbar from '../navbar';
 import Wrapper from '../wrapper';
+import { Route } from 'react-router-dom';
 import './style.css';
 
-const Container = (props) => {
+const Container = () => {
   return(
     <div className='container'>
       <Navbar />
-      <Wrapper />
+      <Route path='/home' component={Wrapper} />
     </div>
   )
 }
