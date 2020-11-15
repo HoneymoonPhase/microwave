@@ -16,5 +16,6 @@
   left: -64px;
   color: #dddddd;
   letter-spacing: 8px;
+  font-weight: bold;
   z-index: 1;
 }
