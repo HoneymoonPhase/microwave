@@ -5,14 +5,3 @@
   border: 6px double black;
   margin: 0 auto;
 }
-
-.wrapper {
-  width: 50vw;
-  height: 80vh;
-  margin: 0 auto;
-  text-align: center;
-  font-family: 'Open Sans', sans-serif;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-}
