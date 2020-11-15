@@ -1,4 +1,5 @@
 import React, { useRef, useEffect } from 'react';
+import { Link } from 'react-router-dom';
 import './style.css';
 
 const Button = () => {
@@ -29,14 +30,15 @@ const Button = () => {
     ctx.lineTo(15, 65);
     ctx.fill();
   });
-    
 
   return(
     <div className='wrapper-canvas'>
         <canvas ref={canvasRef} width='200' height='100' className='canvas'/>
-      <div className='button'>
-      <p>DISCOVER</p>
-      </div>
+      <Link to='/band/honeymoonphase'>
+        <div className='button'>
+        <p>DISCOVER</p>
+        </div>
+      </Link>
     </div>
   );
 }

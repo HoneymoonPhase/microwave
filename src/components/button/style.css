@@ -12,8 +12,9 @@
 
 .button {
   position: absolute;
+  width: 176px;
   top: 23px;
-  left: -64px;
+  left: -83px;
   color: #dddddd;
   letter-spacing: 8px;
   font-weight: bold;
