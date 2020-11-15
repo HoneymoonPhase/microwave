@@ -1,6 +1,6 @@
 .wrapper-social {
   width: 100px;
-  margin: 0 auto;
+  margin: 0 auto 10px;
   display: flex;
   justify-content: space-between;
 }
