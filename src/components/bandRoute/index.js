@@ -8,7 +8,6 @@ const BandRoute = () => {
     <div>
       Band: 
       <Route path='/band/honeymoonphase' render={(props) => <Band {...props} name={`Honeymoon Phase`} title={'Mr Ickiman'} />} />
-      <Route path='/band/thefuckers' render={(props) => <Band {...props} name={`The Fuckers`} title={'Mr Fuckiman'} />} />
     </div>
   );
 };
