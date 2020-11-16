@@ -10,7 +10,7 @@ const Container = () => {
     <div className='container'>
       <Navbar />
       <Route exact path='/microwave/' component={Wrapper} />
-      <Route path='/band' component={BandRoute} />
+      <BandRoute />
     </div>
   )
 }
