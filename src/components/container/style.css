@@ -1,8 +1,7 @@
 .container {
   height: 90vh;
   width: 96vw;
-  /* background: #752f2a; */
-  background: blue;
+  background: #752f2a;
   border: 6px double black;
   margin: 0 auto;
 }
