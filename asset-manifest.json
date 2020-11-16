@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/microwave/static/css/main.5e56883d.chunk.css",
-    "main.js": "/microwave/static/js/main.7b6a4589.chunk.js",
-    "main.js.map": "/microwave/static/js/main.7b6a4589.chunk.js.map",
+    "main.js": "/microwave/static/js/main.2d96b8fe.chunk.js",
+    "main.js.map": "/microwave/static/js/main.2d96b8fe.chunk.js.map",
     "runtime-main.js": "/microwave/static/js/runtime-main.df690ad3.js",
     "runtime-main.js.map": "/microwave/static/js/runtime-main.df690ad3.js.map",
     "static/js/2.b27c5049.chunk.js": "/microwave/static/js/2.b27c5049.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.df690ad3.js",
     "static/js/2.b27c5049.chunk.js",
     "static/css/main.5e56883d.chunk.css",
-    "static/js/main.7b6a4589.chunk.js"
+    "static/js/main.2d96b8fe.chunk.js"
   ]
 }
