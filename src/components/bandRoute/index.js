@@ -1,13 +1,13 @@
 import React from 'react';
 import Band from '../band';
 import { Route } from 'react-router-dom';
+// import Mr_Ickyman from '../../assets/video.mp4';
 import './style.css';
 
 const BandRoute = () => {
   return(
     <div>
-      Band: 
-      <Route path='/band/honeymoonphase' render={(props) => <Band {...props} name={`Honeymoon Phase`} title={'Mr Ickiman'} />} />
+      <Route path='/band/honeymoonphase' render={(props) => <Band {...props} name={`HONEYMOON PHASE`} title={'Mr Ickiman'}/>} />
     </div>
   )
 }

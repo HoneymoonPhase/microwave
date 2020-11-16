@@ -1,6 +1,6 @@
 import React from 'react';
-import facebook from '../../assests/icons/facebook.png';
-import instagram from '../../assests/icons/instagram.png';
+import facebook from '../../assets/icons/facebook.png';
+import instagram from '../../assets/icons/instagram.png';
 import './style.css';
 
 const Social = (props) => {

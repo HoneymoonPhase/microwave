@@ -1,5 +1,5 @@
 import React from 'react';
-import Menu from '../../assests/icons/dropdown.png';
+import Menu from '../../assets/icons/dropdown.png';
 import './style.css';
 
 const Navbar = (props) => {
