@@ -34,7 +34,7 @@ const Button = () => {
   return(
     <div className='wrapper-canvas'>
         <canvas ref={canvasRef} width='200' height='100' className='canvas'/>
-      <Link to='/band/honeymoonphase'>
+      <Link to='/honeymoonphase'>
         <div className='button'>
         <p>DISCOVER</p>
         </div>
