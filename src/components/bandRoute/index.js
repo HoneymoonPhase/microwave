@@ -7,7 +7,7 @@ import './style.css';
 const BandRoute = () => {
   return(
     <div>
-      <Route exact path='/microwave//band/honeymoonphase' render={(props) => <Band {...props} name={`HONEYMOON PHASE`} title={'Mr. Ickiman'} videoSrc={Mr_Ickyman} />} />
+      <Route exact path='/microwave/band/honeymoonphase' render={(props) => <Band {...props} name={`HONEYMOON PHASE`} title={'Mr. Ickiman'} videoSrc={Mr_Ickyman} />} />
     </div>
   )
 }
