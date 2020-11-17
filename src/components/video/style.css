@@ -1,9 +1,11 @@
 .video-element {
-  width: 40%;
+  width: 480px;
+  height: 280px;
 }
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 520px) {
   .video-element {
-    width: 100%;
+    width: 80%;
+    height: 150px;
   }
 }
