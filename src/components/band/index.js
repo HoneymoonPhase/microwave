@@ -2,7 +2,6 @@ import React from 'react';
 import Name from '../name';
 import Title from '../title';
 import Video from '../video';
-import Social from '../social';
 import './style.css';
 
 const Band = (props) => {
