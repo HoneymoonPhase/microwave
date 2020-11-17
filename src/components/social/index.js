@@ -7,14 +7,22 @@ const Social = (props) => {
 
   const {instagram_link, facebook_link} = props;
   
+  const hasSocialLink = (socialLink, icon, social) => {
+    if (social) {
+      return(
+        <a href={socialLink} target='_blank' rel='noreferrer'>
+          <img src={icon} alt={social} width='40' />
+        </a>
+      )
+    } else {
+      return(null);
+    }
+  };
+
   return(
     <div className='wrapper-social'>
-      <a href={facebook_link} target='_blank' rel='noreferrer'>
-        <img src={facebook} alt='facebook' width='40' />
-      </a>
-      <a href={instagram_link} target='_blank' rel='noreferrer'>
-        <img src={instagram} alt='instagram' width='40' />
-      </a>
+      {hasSocialLink(facebook_link, facebook, 'facebook')}
+      {hasSocialLink(instagram_link, instagram, 'instagram')}
     </div>
   )
 }
