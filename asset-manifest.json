@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/microwave/static/css/main.dee436ef.chunk.css",
-    "main.js": "/microwave/static/js/main.7c807da0.chunk.js",
-    "main.js.map": "/microwave/static/js/main.7c807da0.chunk.js.map",
+    "main.css": "/microwave/static/css/main.ceae7b5b.chunk.css",
+    "main.js": "/microwave/static/js/main.91343834.chunk.js",
+    "main.js.map": "/microwave/static/js/main.91343834.chunk.js.map",
     "runtime-main.js": "/microwave/static/js/runtime-main.6c26659e.js",
     "runtime-main.js.map": "/microwave/static/js/runtime-main.6c26659e.js.map",
     "static/js/2.b27c5049.chunk.js": "/microwave/static/js/2.b27c5049.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.a98fc15a.chunk.js": "/microwave/static/js/3.a98fc15a.chunk.js",
     "static/js/3.a98fc15a.chunk.js.map": "/microwave/static/js/3.a98fc15a.chunk.js.map",
     "index.html": "/microwave/index.html",
-    "static/css/main.dee436ef.chunk.css.map": "/microwave/static/css/main.dee436ef.chunk.css.map",
+    "static/css/main.ceae7b5b.chunk.css.map": "/microwave/static/css/main.ceae7b5b.chunk.css.map",
     "static/js/2.b27c5049.chunk.js.LICENSE.txt": "/microwave/static/js/2.b27c5049.chunk.js.LICENSE.txt",
     "static/media/Mr_Ickyman.388810a2.mp4": "/microwave/static/media/Mr_Ickyman.388810a2.mp4",
     "static/media/instagram.bc603aca.png": "/microwave/static/media/instagram.bc603aca.png"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.6c26659e.js",
     "static/js/2.b27c5049.chunk.js",
-    "static/css/main.dee436ef.chunk.css",
-    "static/js/main.7c807da0.chunk.js"
+    "static/css/main.ceae7b5b.chunk.css",
+    "static/js/main.91343834.chunk.js"
   ]
 }
