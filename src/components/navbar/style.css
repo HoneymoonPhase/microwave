@@ -1,4 +1,7 @@
 .navbar {
   margin: 10px 15px;
-  text-align: end;
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+  align-items: center;
 }
