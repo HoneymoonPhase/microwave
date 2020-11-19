@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/microwave/static/css/main.c4b168f8.chunk.css",
+    "main.css": "/microwave/static/css/main.ea146092.chunk.css",
     "main.js": "/microwave/static/js/main.29ce5805.chunk.js",
     "main.js.map": "/microwave/static/js/main.29ce5805.chunk.js.map",
     "runtime-main.js": "/microwave/static/js/runtime-main.6c26659e.js",
@@ -10,7 +10,7 @@
     "static/js/3.a98fc15a.chunk.js": "/microwave/static/js/3.a98fc15a.chunk.js",
     "static/js/3.a98fc15a.chunk.js.map": "/microwave/static/js/3.a98fc15a.chunk.js.map",
     "index.html": "/microwave/index.html",
-    "static/css/main.c4b168f8.chunk.css.map": "/microwave/static/css/main.c4b168f8.chunk.css.map",
+    "static/css/main.ea146092.chunk.css.map": "/microwave/static/css/main.ea146092.chunk.css.map",
     "static/js/2.9779bb9c.chunk.js.LICENSE.txt": "/microwave/static/js/2.9779bb9c.chunk.js.LICENSE.txt",
     "static/media/apple.ee574fdf.png": "/microwave/static/media/apple.ee574fdf.png",
     "static/media/home.201c69f8.png": "/microwave/static/media/home.201c69f8.png",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.6c26659e.js",
     "static/js/2.9779bb9c.chunk.js",
-    "static/css/main.c4b168f8.chunk.css",
+    "static/css/main.ea146092.chunk.css",
     "static/js/main.29ce5805.chunk.js"
   ]
 }
