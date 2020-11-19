@@ -2,3 +2,9 @@
   text-align: center;
   font-family: 'Open Sans', sans-serif;
 }
+
+@media only screen and (max-width: 520px) {
+  .band-container {
+    margin-top: 10vh;
+  }
+}
